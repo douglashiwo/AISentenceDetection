@@ -1,4 +1,4 @@
-# AISentenceDetection(IJCAI 2024 full paper)
+# AISentenceDetection(IJCAI 2024 full paper on the Special Track of AI and Social Good )
 
 
 1.These are the implemented codes for our IJCAI 2024 accpeted paper (https://arxiv.org/abs/2403.03506).
