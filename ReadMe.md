@@ -1,5 +1,21 @@
 # AISentenceDetection(IJCAI 2024 full paper)
 
+
+1.These are the implemented codes for our IJCAI 2024 accpeted paper (https://arxiv.org/abs/2403.03506).
+
+2.For details about this paper.Please refer to our paper:
+
+      **Detecting AI-Generated Sentences in Realistic Human-AI Collaborative Hybrid Texts: Challenges, Strategies, and Insights**
+      BibTex:
+
+      @article{zeng2024detecting,
+            title={Detecting AI-Generated Sentences in Realistic Human-AI Collaborative Hybrid Texts: Challenges, Strategies, and Insights}, 
+            author={Zijie Zeng and Shiqi Liu and Lele Sha and Zhuang Li and Kaixun Yang and Sannyuya Liu and Dragan Gašević and Guanliang Chen},
+            year={2024},
+            journal={Proceedings of the 33rd International Joint Conference on Artificial Intelligence}
+          
+      }
+
 Dir A-Segment_Detection_Models contains all the segment detection models which detect segments by locating the boundaries between sentences of different authorship, .e.g., between human-written sentences and AI-written sentence.
 
 Dir B-Segment_Classification_Models contains all the segment classification models which can perform classification over inputs such as a single sentence or a segment of several sentences. 
