@@ -1,3 +1,4 @@
+##AISentenceDetection(IJCAI 2024 full paper)
 
 Dir A-Segment_Detection_Models contains all the segment detection models which detect segments by locating the boundaries between sentences of different authorship, .e.g., between human-written sentences and AI-written sentence.
 
